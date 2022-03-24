@@ -1,8 +1,8 @@
 import { render, screen } from '@testing-library/react';
-import App from './App';
+import {Modal} from './Modal';
 
-test('renders learn react link', () => {
-  render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
-});
+// test('renders Modal', () => {
+//   render(<Modal />);
+//   const element = screen.getByTestId('modal');
+//   expect(element).toBeInTheDocument();
+// });

@@ -1,14 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import {Modal} from './Modal';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Modal />
   </React.StrictMode>,
-  document.getElementById('root')
+  document.getElementById('portal')
 );
 
 // If you want to start measuring performance in your app, pass a function
