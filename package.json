@@ -1,7 +1,7 @@
 {
   "name": "@elencrissy/modal",
-  "version": "0.2.5",
-  "main": "src/index.js",
+  "version": "0.2.7",
+  "main": "src/modal.js",
   "private": false,
   "babel": {
     "presets": [
