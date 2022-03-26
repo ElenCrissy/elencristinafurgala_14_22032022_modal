@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import {Modal} from './Modal';
+import {Modal} from "./Modal.js";
 import reportWebVitals from './reportWebVitals';
 
 // ReactDOM.render(
