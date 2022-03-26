@@ -1,7 +1,8 @@
 {
   "name": "@elencrissy/modal",
-  "version": "0.1.7",
+  "version": "0.2.1",
   "private": false,
+  "type": "module",
   "babel": {
     "presets": [
       "@babel/preset-react"
